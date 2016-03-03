@@ -1,0 +1,1 @@
+This package contains the *python_string* function that compares 2 strings using k-tuple algorithm. The function takes in 3 arguments *python_string(str1, str2, k)*, where *str1* and *str2* are the 2 strings to be compared, and k is the value in k-tuple, a.k.a. the length of the tuple used in this algorithm.

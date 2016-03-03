@@ -35,7 +35,6 @@ def ktuple_string(str1, str2, k):
 	items = generateItems(str1, str2)
 	ktuple = generateKTuple(items, k)
 	distanceMatrix = generateDistanceMatrix(str1, str2, ktuple)
-	print(distanceMatrix)
 	distance = generateDistance(distanceMatrix)
 
 	return distance
